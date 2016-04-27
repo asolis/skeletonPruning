@@ -29,9 +29,16 @@
      THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
      OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
      OF THE POSSIBILITY OF SUCH DAMAGE.
+     
+If you find this code useful in your research/software, please consider citing the following publication:
+
+Andrés Solís Montero and Jochen Lang. "Skeleton pruning by contour approximation and the 
+integer medial axis transform". Computers & Graphics, Elsevier, 2012. 
+
+ (http://www.sciencedirect.com/science/article/pii/S0097849312000684)
  
- **************************************************************************************************
- **************************************************************************************************/
+**************************************************************************************************
+**************************************************************************************************/
 package imageOp.skeleton;
 
 import java.awt.geom.CubicCurve2D;
