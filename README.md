@@ -1,10 +1,13 @@
 # skeletonPruning
 Skeleton pruning based in the IMA and Contour Approximation
 
+#####
+
 If you find this code useful in your research/software, please consider citing the following publication:
 
-Andrés Solís Montero and Jochen Lang. [_Skeleton pruning by contour approximation and the 
-integer medial axis transform_](http://www.sciencedirect.com/science/article/pii/S0097849312000684). Computers & Graphics, Elsevier, 2012. 
+1. Andrés Solís Montero and Jochen Lang. [_Skeleton pruning by contour approximation and the 
+integer medial axis transform_](http://www.sciencedirect.com/science/article/pii/S0097849312000684). 
+Computers & Graphics, Elsevier, 2012. 
 
 #### Contributors
 
@@ -17,7 +20,7 @@ integer medial axis transform_](http://www.sciencedirect.com/science/article/pii
 #### Usage
 ```
 ./compile.sh 
-./run
+./run.sh
 ```
 
 #### Licensing
