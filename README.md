@@ -2,7 +2,9 @@
 Skeleton pruning based in the IMA and Contour Approximation
 
 ##### Graphical Abstract 
-Input > Pruned Skeleton > Vectorization 
+
+Input > Pruned Skeleton > Vectorization    
+
 ![Graphical Abstract](https://github.com/asolis/skeletonPruning/blob/master/abstract.png)
 
 If you find this code useful in your research/software, please consider citing the following publication:
