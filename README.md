@@ -1,8 +1,8 @@
 # skeletonPruning
 Skeleton pruning based in the IMA and Contour Approximation
 
-#####
-![](https://github.com/asolis/skeletonPruning/blob/master/images/B.png)
+##### Graphical Abstract 
+![Graphical Abstract](https://github.com/asolis/skeletonPruning/blob/master/abstract.png)
 
 If you find this code useful in your research/software, please consider citing the following publication:
 
